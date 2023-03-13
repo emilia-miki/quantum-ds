@@ -1,3 +1,3 @@
 # quantum-ds
 
-A repository for the solutions of test tasks of Quantum DS.
+A repository for the solutions for test tasks of Quantum DS.
