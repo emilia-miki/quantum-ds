@@ -1,6 +1,6 @@
 # Task 3
 
-This is my solution to the 3rd task. It contains the Jupyter Notebook 'main.ipynb'. In it you can find my analysis of the dataset, creation, training and exporting of a suitable model for the task at hand.
+This is my solution to the 3rd task. It contains the Jupyter Notebook 'analysis.ipynb'. In it you can find my analysis of the dataset, creation, training and exporting of a suitable model for the task at hand.
 
 The code for training and exporting the model is duplicated in the 'train.py' file, which can be used as a script for training a model on CSV data. It can take a command-line argument with the name of the csv file with data, or if the argument isn't provided it will ask for the filename in a cli prompt.
 
